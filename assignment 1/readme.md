@@ -1,7 +1,7 @@
 # 🧮 Daily Calorie Tracker
 
 ### Author: Bhoomi Raghav  
-**Roll Number:** 2501730254
+
 
 ---
 
